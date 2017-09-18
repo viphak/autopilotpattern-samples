@@ -1,2 +1,3 @@
 # autopilotpattern-samples
-http://autopilotpattern.io/
+> http://autopilotpattern.io/
+> https://github.com/tgross
